@@ -4,6 +4,7 @@ public class HelloJava {
     public static void main(String[] agrs) {
         System.out.println("xin chao Java");
         System.out.println("chao tu");
+        System.out.println("chao ngay moi");
         
     }
     
